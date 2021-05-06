@@ -1,0 +1,6 @@
+Nama : Rafli
+Umur : 19
+Alamat : Semarang
+Nama : Vizzal
+Umur : 18
+Alamat : Malang
